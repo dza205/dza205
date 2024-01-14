@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
 ## Things I know
- TODO: Make this section bigger
+ TODO: Fill this section. Huh. This one is going to take a long time.
 
 ## Things I don't know (yet)
 [![My Skills](https://skillicons.dev/icons?i=c,java,rust,gradle,cmake&perline=3)](https://skillicons.dev)
