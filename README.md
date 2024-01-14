@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=24F733&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=24F733&random=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ### Things I know
  TODO: Fill this section. Huh. This one is going to take a long time.
