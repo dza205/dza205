@@ -1,5 +1,11 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+
+## Things I know
+ TODO: Make this section bigger
+
+## Things I don't know (yet)
+[![My Skills](https://skillicons.dev/icons?i=c,java,rust,gradle,cmake&perline=3)](https://skillicons.dev)
 <!--
 **dza205/dza205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
