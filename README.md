@@ -5,7 +5,7 @@
  TODO: Fill this section. Huh. This one is going to take a long time.
 
 ### Things I'm figuring out at the moment
-[![My Skills](https://skillicons.dev/icons?i=c,meson,cpp,git,opengl&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cmake,cpp,git,opengl&perline=3)](https://skillicons.dev)
 ### Editors I use
 [![My Skills](https://skillicons.dev/icons?i=neovim&perline=3)](https://skillicons.dev)
 ### My stats
