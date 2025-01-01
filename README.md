@@ -5,9 +5,9 @@
  TODO: Fill this section. Huh. This one is going to take a long time.
 
 ### Things I'm figuring out at the moment
-[![My Skills](https://skillicons.dev/icons?i=c,latex,git,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,latex,git,rust,java&perline=4)](https://skillicons.dev)
 ### Editors I use
-[![My Skills](https://skillicons.dev/icons?i=neovim&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode&perline=3)](https://skillicons.dev)
 ### My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dza205&show_icons=true&theme=dark)](https://github.com/dza205/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dza205&theme=dark)](https://github.com/dza205/github-readme-stats)
 
